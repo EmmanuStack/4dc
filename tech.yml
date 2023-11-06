@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/4dc
-report_id: a3f554ed5910f6736796ed08fa4c3055
+report_id: df56f353e14f5f4932fc3c2214022bac
 repo_type: Public
-timestamp: '2023-11-06T17:13:21+00:00'
+timestamp: '2023-11-06T20:08:40+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 22
+detected_tools_count: 21
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -134,18 +134,6 @@ tools:
   category: Libraries
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
-  detection_source_url: opbox-plugin-preview/package.json
-  detection_source: opbox-plugin-preview/package.json
-- name: husky
-  description: Prevents bad commit or push
-  package_url: https://www.npmjs.com/husky
-  version: 8.0.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: jest-css-modules
