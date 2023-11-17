@@ -1,5 +1,5 @@
 <!--
---- Readme.md Snippet without images Start ---
+--- Readme.md Snippet without images Starts ---
 ## Tech Stack
 EmmanuStack/4dc is built on the following main stack:
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
