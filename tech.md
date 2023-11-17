@@ -5,7 +5,7 @@ EmmanuStack/4dc is built on the following main stack:
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Kotlin](https://kotlinlang.org/) – Languages
+- [Kotlin](https://kotlinlang.org/) – Languagess
 - [4D](https://us.4d.com/) – Integration Tools
 - [Prettier](https://prettier.io/) – Code Review
 
